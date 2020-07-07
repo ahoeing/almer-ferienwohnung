@@ -1,16 +1,16 @@
 +++
 fragment = "contact"
-disabled = true
+#disabled = true
 date = "2017-09-10"
 weight = 1100
 #background = "light"
-form_name = "contact"
+form_name = "defaultContact"
 
-title = "Kontakt"
-subtitle  = "Scheiben Sie mir oder rufen mich direkt an. Telefon 02964 693"
+title = "Contact fragment"
+subtitle  = "*not working on demo page*"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://formspree.io/mlewkkwb" #default: formspree.io
+post_url = "https://example.com/mailout" #default: formspree.io
 email = "mail@example.com"
 button = "Send Button" # defaults to theme default
 #netlify = false
@@ -25,19 +25,19 @@ button = "Send Button" # defaults to theme default
 
 # Only defined fields are shown in contact form
 [fields.name]
-  text = "Name *"
+  text = "Your Name *"
   #error = "" # defaults to theme default
 
 [fields.email]
-  text = " Email *"
+  text = "Your Email *"
   #error = "" # defaults to theme default
 
 [fields.phone]
-  text = "Telefon *"
+  text = "Your Phone *"
   #error = "" # defaults to theme default
 
 [fields.message]
-  text = "Nachricht *"
+  text = "Your Message *"
   #error = "" # defaults to theme default
 
 # Optional hidden form fields
