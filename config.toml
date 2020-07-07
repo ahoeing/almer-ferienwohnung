@@ -1,9 +1,9 @@
 # Site settings
 baseurl = "/"
-languageCode = "en-us"
-title = "Okkur - Syna"
+languageCode = "de-de"
+title = "Almer Ferienwohnung"
 theme = "syna"
-enableGitInfo = true
+enableGitInfo = false
 version = "0.16.2"
 
 # Google Analytics tracking
@@ -22,11 +22,11 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Almer Ferienwohnung"
+  description = "Ferienwohnung mit Herz"
 
   [params.style]
-    #background = "secondary"
+    # background = "secondary"
 
   # Theme customizations
   # Assets relative to 'static/'
@@ -51,7 +51,7 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
+    primary = "#90838F"
     secondary = "#868e96"
     success = "#008f54"
     info = "#00c9dc"
@@ -65,52 +65,59 @@ lastmod = ["lastmod", ":git", "date"]
 # configurable.
 [[menu.main]]
   url = "/"
-  name = "Home"
+  name = "Start"
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "/wohnung"
+  name = "Ferienwohnung"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/Freizeit"
+  name = "Freizeit"
   weight = 30
 
+[[menu.main]]
+  url = "/Anfahrt"
+  name = "Anfahrt"
+  weight = 40
+
+[[menu.main]]
+  url = "/Preise"
+  name = "Preise"
+  weight = 60
+
+
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "impressum"
+  name = "Impressum"
   weight = 10
 
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
 
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
+#[[menu.footer]]
+#  url = "#"
+#  name = "Tiny Link"
+#  weight = 30
 
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-  weight = 10
+#[[menu.copyright_footer]]
+#  url = "/about"
+#  name = "About Us"
+#  weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
+#[[menu.copyright_footer]]
+#  url = "#"
+#  name = "Another Link"
+#  weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "#"
 
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"
