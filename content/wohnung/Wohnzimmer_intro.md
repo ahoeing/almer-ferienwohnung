@@ -3,7 +3,7 @@ fragment = "content"
 weight = 119
 
 title = "Wohnzimmer"
-background = "dark"
+background = "light"
 +++
 
 Das große Wohnzimmer ist ausgestattet  mit bequemer Sitzecke (inkl. Schlafsofa) und Sat-TV.   

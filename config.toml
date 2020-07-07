@@ -68,6 +68,24 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Home"
   weight = 10
 
+[[menu.main]]
+  url = "/wohnung"
+  name = "Wohnung"
+  weight = 20
+
+[[menu.main]]
+  url = "/Freizeit"
+  name = "Freizeit"
+  weight = 30
+
+[[menu.main]]
+  url = "/Preise"
+  name = "Preise"
+  weight = 40
+
+
+
+
 #[[menu.main]]
 #  url = "/about"
 #  name = "About Us"
@@ -78,26 +96,12 @@ lastmod = ["lastmod", ":git", "date"]
 #  name = "Contact"
 #  weight = 30
 #
-#[[menu.footer]]
-#  url = "#"
-#  name = "Link"
-#  weight = 10
-#
-#[[menu.footer]]
-#  url = "#"
-#  name = "Long Link"
-#  weight = 30
-#
-#[[menu.footer]]
-#  url = "#"
-#  name = "Tiny Link"
-#  weight = 30
-#
-#[[menu.copyright_footer]]
-#  url = "/about"
-#  name = "About Us"
-#  weight = 10
-#
+
+[[menu.footer]]
+  url = "impressum"
+  name = "Impressum"
+  weight = 10
+
 #[[menu.copyright_footer]]
 #  url = "#"
 #  name = "Another Link"

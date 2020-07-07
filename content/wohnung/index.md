@@ -2,15 +2,16 @@
 fragment = "content"
 weight = 100
 
-title = "Die Ferienwohnung"
+title = "Ferienwohnung"
 background = "light"
+#disabled = true
 +++
 
-Die Wohnung misst etwa 100 qm und besteht aus 
-* einer gemütlichen Wohnküche
-* einem großem Wohnzimmer 
+Die circa 100 qm große Wohnung beinhaltet 
+* eine gemütliche Wohnküche
+* ein großes Wohnzimmer 
 * drei Schlafzimmer mit je 2 Betten
-* einem großzügiges Bad mit Dusche
+* Bad mit Dusche
 * ein separates Gäste-WC
 * einem sonnigen Balkon (begehbar durch Küche und Wohnzimmer)
 
