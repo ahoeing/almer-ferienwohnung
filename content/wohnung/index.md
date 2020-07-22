@@ -1,9 +1,9 @@
 +++
 fragment = "content"
-weight = 100
+weight = 80
 
 title = "Ferienwohnung"
-background = "light"
+background = "dark"
 #disabled = true
 +++
 

@@ -8,7 +8,7 @@ particles = false
 minHeight= "300px"
 
 title = "Almer Ferienwohnung"
-subtitle = "Die Ferienwohnung mit Herz"
+subtitle = ""
 
 [header]
   image = "header.jpg"

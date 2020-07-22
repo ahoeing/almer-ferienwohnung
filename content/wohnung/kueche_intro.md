@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 109
 
-title = "Die Wohnküche"
+title = "Wohnküche"
 background = "dark"
 +++
 
