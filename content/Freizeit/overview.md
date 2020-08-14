@@ -16,7 +16,6 @@ background = "dark"
 ### Bad Wünnenberg (10 min)
 * Abachtalsperre
 * Barfußpfad
-* Kletterpark
 * Wildgehege
 ### Marsberg (20 min)
 * Besucherbergwerg Kilianstollen
