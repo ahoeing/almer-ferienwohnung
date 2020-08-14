@@ -1,7 +1,7 @@
 +++
 weight = 10
 title = "Kueche"
-subtitle = "mit Kühlschrank und Spülmaschine"
+subtitle = "mit Kühlschrank"
 
 [asset]
   image = "kueche.jpeg"
