@@ -3,7 +3,7 @@ fragment = "content"
 weight = 200
 
 title = "Ausflugsziele"
-background = "dark"
+background = "light"
 +++
 
 ### Brilon (10 min)
