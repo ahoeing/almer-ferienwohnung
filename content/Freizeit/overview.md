@@ -48,7 +48,7 @@ background = "dark"
 * Erlebnisbad
 * im Winter ausgiebige Winterstport-Möglichkeiten (Abfahrt und Langlaufski)
 ### Fort Fun (40 min)
-Großer Erlebnisnispark
+* Großer Erlebnisnispark
 ### Winterberg (ca 50 min)
 * Eiskanal
 * Kahler Asten (höchster Punkt NRWs) mit Astenturm
