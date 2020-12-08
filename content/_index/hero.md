@@ -20,7 +20,7 @@ subtitle = ""
 
 [[buttons]]
   text = "Jetzt Buchen"
-  url = "https://almer-ferienwohnung.twebsite.info/"
+  url = "https://tportal.toubiz.de/brilon/ukv/house/GER00020060005418109"
   color = "info" # primary, secondary, success, danger, warning, #info, light, dark, link - default: primary
 
 [[buttons]]
