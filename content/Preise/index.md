@@ -9,19 +9,20 @@ align = "center"
 
 Unsere Ferienwohnung ist für Sie günstig zu mieten:
 
-|||
-|---|---|
-| 1 oder 2 Personen je Nacht      | 39 € | 
-| jeder weitere Erwachsene      | 9 € |
-| jedes weitere Kind zwischen 4 und 15 Jahren      | 5 € |
+||||
+||2021|ab 2022|
+|---|---|---|
+| 1 oder 2 Personen je Nacht      | 39 € | 45 € |
+| jeder weitere Erwachsene      | 9 € | 10 € |
+| jedes weitere Kind zwischen 4 und 15 Jahren      | 5 € | 6 € |
 | Kinder bis 3 Jahre      | kostenlos |
 |&nbsp;  |  |
-| Bettwäsche für 1-2 Nächte      | 2,50 € |
-| Bettwäsche ab 3 Nächte      | kostenlos |
-| Strom und Heizung | kostenlos |
-| &nbsp; |  |
-| Endreinigung (abhängig von Personenzahl)      | 20-30 € |
-| &nbsp; |  |
+| Bettwäsche für 1-2 Nächte      | 2,50 € | 2,50 € |
+| Bettwäsche ab 3 Nächte      | kostenlos | kostenlos |
+| Strom und Heizung | kostenlos |  kostenlos | 
+| &nbsp; |  |  |
+| Endreinigung (abhängig von Personenzahl)      | 20-30 € | 40 € |
+| &nbsp; |  |  |
 
 [Überprüfen](https://tportal.toubiz.de/brilon/ukv/house/GER00020060005418109) Sie, ob die Wohnung zu Ihrem Termin noch frei ist oder buchen Sie direkt.
 
