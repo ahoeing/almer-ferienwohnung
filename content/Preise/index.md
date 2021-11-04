@@ -20,7 +20,7 @@ Unsere Ferienwohnung ist für Sie günstig zu mieten:
 | Bettwäsche ab 3 Nächte      | kostenlos | kostenlos |
 | Strom und Heizung | kostenlos |  kostenlos | 
 | &nbsp; |  |  |
-| Endreinigung (abhängig von Personenzahl)      | 20-30 € | 40 € |
+| Endreinigung (abhängig von Personenzahl) &nbsp;| &nbsp;20-30 € &nbsp;| &nbsp; 40 € &nbsp; |
 | &nbsp; |  |  |
 
 [Überprüfen](https://tportal.toubiz.de/brilon/ukv/house/GER00020060005418109) Sie, ob die Wohnung zu Ihrem Termin noch frei ist oder buchen Sie direkt.
