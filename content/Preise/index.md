@@ -9,7 +9,6 @@ align = "center"
 
 Unsere Ferienwohnung ist für Sie günstig zu mieten:
 
-||||
 ||2021|ab 2022|
 |---|---|---|
 | 1 oder 2 Personen je Nacht      | 39 € | 45 € |
