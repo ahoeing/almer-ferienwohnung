@@ -14,4 +14,4 @@ Ein Kinderbett ist natürlich vorhanden.
 
 Bitte beachten Sie, dass die Preise bei einer Buchung über die verknüpfte Webseite abweichen. Rufen Sie mich an, um direkt zu den hier genannten Preisen zu buchen.
 
-![Rating](https://www.almer-ferienwohnung.de/images/d37e7d12-b5f9-4ccf-91ad-fbdc0be95ddc.JPG)
+![Rating](https://www.almer-ferienwohnung.de/images/d37e7d12-b5f9-4ccf-91ad-fbdc0be95ddc.JPG | width=150)
