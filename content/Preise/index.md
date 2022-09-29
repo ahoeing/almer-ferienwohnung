@@ -10,6 +10,6 @@ align = "center"
 Unsere Ferienwohnung ist für Sie ab 80 € günstig zu mieten. 
 
 Preise und Verfügbarkeit können Sie im folgenden Link
-[überprüfen](https://tportal.toubiz.de/brilon/ukv/house/GER00020060005418109)
+[überprüfen](https://www.sauerland.com/sauerland/ukv/house/Brilon-Ferienwohnung-Ferienhaus-Almer-Ferienwohnung-GER00020060005418109)
 
 __Bei telefonischer Buchung erhalten Sie ca 5% Rabatt. Tel. 0151 581 784 59__
