@@ -7,7 +7,7 @@ background = "light"
 align = "center"
 +++
 
-Unsere Ferienwohnung ist für Sie ab 80 € günstig zu mieten. 
+Unsere Ferienwohnung ist für Sie ab 100€ (105€ an 2024) günstig zu mieten. 
 
 Preise und Verfügbarkeit können Sie im folgenden Link
 [überprüfen](https://www.sauerland.com/sauerland/ukv/house/Brilon-Ferienwohnung-Ferienhaus-Almer-Ferienwohnung-GER00020060005418109)
